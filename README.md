@@ -20,6 +20,7 @@ This PowerBI dashboard that provides comprehensive insights into pizza sales. Th
 
 - **Top-Selling Products**: Pie chart or bar chart displaying the top-selling pizzas.
 - **Product Category Performance**: Analysis of sales across different pizza categories (e.g., vegetarian, chicken).
+![PIZZA_SALES_REPORT](https://github.com/user-attachments/assets/1a27a95c-422d-40e7-9fed-40027e9d0b63)
+![PIZZA SALES REPORT](https://github.com/user-attachments/assets/7037e288-be11-434a-b34d-33d5fd968e06)
 
-![PIZZA_SALES_REPORT](https://github.com/user-attachments/assets/57986282-4833-4305-b121-237e197474f2)
-![PIZZA SALES REPORT](https://github.com/user-attachments/assets/8ab087e6-4b04-42d2-8cc4-63c6aa03741d)
+
